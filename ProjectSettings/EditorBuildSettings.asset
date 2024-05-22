@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Level1.unity
+    path: Assets/Scenes/Snow Level 1.unity
     guid: 8971a2648ee4aad459069529d97d38ea
   m_configObjects: {}
